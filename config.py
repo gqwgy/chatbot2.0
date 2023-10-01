@@ -6,7 +6,7 @@ config={
 
     },
     'pinecone' : {
-        'api_key' : 'a5e71453-4e9b-40f2-8dfd-a64fe418f0b6',
+        'api_key' : '300fb6ed-2aae-42ae-a860-f51b0bab9729',
         'environment':'gcp-starter',
 
 
